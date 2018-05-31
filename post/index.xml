@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on akavel</title>
+    <link>https://akavel.github.io/post/</link>
+    <description>Recent content in Posts on akavel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://akavel.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Unexpected insights from Stylish Elephants</title>
+      <link>https://akavel.github.io/post/2018-05-31-stylish-elephants/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://akavel.github.io/post/2018-05-31-stylish-elephants/</guid>
+      <description>Draft:  PDF draft SVG draft  Important links:  halfzebra/create-elm-app — is an awesome helper allowing to quickly create a PWA app in Elm mdgriffith/style-elements — predecessor to stylish-elephants; the latter have incomplete docs as of today, so until they are finished, you should read style-elements guide first before jumping to elephants mdgriffith/stylish-elephants akavel/dodo — code of the app I&amp;rsquo;m building in Elm akavel.github.io/dodo — experimental build of my app, in development (may break unexpectedly, etc.</description>
+    </item>
+    
+    <item>
+      <title>Understanding Nix&#39;s lib.fix</title>
+      <link>https://akavel.github.io/post/nix-fixpoint/</link>
+      <pubDate>Fri, 26 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://akavel.github.io/post/nix-fixpoint/</guid>
+      <description>Understanding Nix&amp;rsquo;s lib.fix — a.k.a. &amp;ldquo;fixed point combinator&amp;rdquo; — and then based on it lib.extend, is crucial for understanding various NixOS features, including overlays.
+Conceptually, lib.fix is a very similar mechanism to rec — it allows defining some attributes of a set &amp;ldquo;recursively&amp;rdquo;, using values of other attributes from the same set. The main difference is, that while rec is &amp;ldquo;eager&amp;rdquo;, lib.fix is its &amp;ldquo;lazy&amp;rdquo; sibling. This magically allows using it to build various powerful features, such as overlays, lib.</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://akavel.github.io/post/test/</link>
+      <pubDate>Fri, 26 May 2017 01:30:08 +0200</pubDate>
+      
+      <guid>https://akavel.github.io/post/test/</guid>
+      <description> First test.
+Sample code.  Second and
+print &#39;hello&#39;  </description>
+    </item>
+    
+  </channel>
+</rss>
